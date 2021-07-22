@@ -1,0 +1,31 @@
+{
+  "_schema": "shopify/orders/1",
+  "shop": {
+    "id": null,
+    "url": null
+  },
+  "customer": null,
+  "id": "01FB7QB036SJQD4F9GZ1KM9HA9",
+  "url": "https://github.com/git-ord/01FB7QB036SJQD4F9GZ1KM9HA9.git",
+  "status": "open",
+  "customer_notes": "",
+  "admin_notes": "",
+  "created_at": "2021-07-22T18:23:42+00:00",
+  "updated_at": "2021-07-22T18:23:42+00:00",
+  "subtotal": {
+    "amount": 11229,
+    "currency": "USD"
+  },
+  "total": {
+    "amount": 11229,
+    "currency": "USD"
+  },
+  "discounts": [],
+  "taxes": [],
+  "shipping": {
+    "address": null,
+    "method": null,
+    "cost": null
+  },
+  "billing_address": null
+}
