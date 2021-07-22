@@ -23,9 +23,16 @@
   "discounts": [],
   "taxes": [],
   "shipping": {
-    "address": null,
-    "method": null,
-    "cost": null
+    "address": {
+      "firstName": "Kevan",
+      "lastName": "Davis",
+      "line1": "123 Fake St",
+      "line2": "",
+      "city": "Fakesville",
+      "postalCode": "12345",
+      "country": "Fakistan",
+      "phone": ""
+    }
   },
   "billing_address": null
 }
